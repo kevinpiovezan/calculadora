@@ -19,24 +19,37 @@
             <div class="div-input">
                 <label>Insira o valor:</label>
                 <br>
-                <input type="text" class="input" value="1">
+                <input type="text" class="input" placeholder="1">
                 <br>
                 <select class="input-select">
-                    <option value="cha">Colher de chá</option>
-                    <option value="cafe">Colher de café</option>
-                    <option value="sobremesa">Colher de sobremesa</option>
-                    <option value="sopa">Colher de sopa</option>
-                    <option value="xicara">Xícara</option>
+                    <optgroup label="Colheres de chá">
+                        <option value="5">1 Colher(chá)</option>
+                        <option value="2.5">½ Colher(chá)</option>
+                        <option value="1.25">¼ Colher(chá)</option>
+                    </optgroup>
+                    <optgroup label="Colheres de sopa">
+                        <option value="15">1 Colher(sopa)</option>
+                        <option value="7.5">½ Colher(sopa)</option>
+                        <option value="3.75">¼ Colher(sopa)</option>
+                    </optgroup>
+                    <optgroup label="Xícaras">
+                        <option value="240">1 xícara</option>
+                        <option value="180">¾ xícara</option>
+                        <option value="120">½ xícara</option>
+                        <option value="60">¼ xícara</option>
+                        <option value="30">⅛ xícara</option>
+                    </optgroup>
+                    
                 </select>
             </div>
-            <span> = </span>
+            <button type="button" class="btn-eq"> = </button>
             <div class="div-output">
                 <label>Valor após conversão</label>
                 <br>
-                <input type="text" class="output" disabled value="1000">
+                <input type="text" class="output" disabled placeholder="1000">
                 <br>
                 <select class="output-select">
-                    <option value="ml">mL/g</option>
+                    <option value="1">ml/g</option>
                 </select>
             </div>
         </div>
@@ -47,7 +60,7 @@
     </section>
 
 
-    <script src="./assets/js/script.js"></script>
+    <script src="./assets/js/script2.js"></script>
 </body>
 
 </html>
