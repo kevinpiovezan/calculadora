@@ -5,7 +5,7 @@
         let select = document.querySelector('.input-select');
         let value = select.options[select.selectedIndex].value;
         const options = document.getElementsByTagName('option');
-        if(typeof input !== 'number'){
+        if(typeof input !== Number){
             alert('Digite um número válido');
         }
         output.value = input * value + 'ml/g';
