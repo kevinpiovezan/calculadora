@@ -7,6 +7,7 @@
         const options = document.getElementsByTagName('option');
         if(typeof input !== Number || typeof input !== 'string'){
             alert('Digite um número válido');
+            console.log(typeof input)
         }
         output.value = input * value + 'ml/g';
     }
