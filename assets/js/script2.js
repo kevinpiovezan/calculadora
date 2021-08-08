@@ -3,11 +3,10 @@
         const input = Number(document.querySelector('.input').value);
         let output = document.querySelector('.output');
         let select = document.querySelector('.input-select');
-        let value = select.options[select.selectedIndex].value;
-        const options = document.getElementsByTagName('option');
+        let value = Number(select.options[select.selectedIndex].value);
+        console.log(typeof input);
         if(typeof input !== Number || typeof input !== 'string'){
             alert('Digite um número válido');
-            console.log(typeof input)
         }
         output.value = input * value + 'ml/g';
     }
