@@ -3,6 +3,7 @@
 ## Hi! On this project I've made a useful contact book with database storage, using your e-mail to create an account and login.
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 <h4 align="center"> 
@@ -18,12 +19,18 @@
 
 <br>
 You are welcome to test it on this link: https://calculadora.kevinpiovezan.com.br/ <br>
-Hosted on Google Cloud Platform
+Hosted on Google Cloud Platform.
+<br>
+Here's a little preview: <br>
+![calc](https://user-images.githubusercontent.com/85972685/128936388-c1e037ba-98aa-407b-951a-a4b8052c1e62.jpg)
+![conv](https://user-images.githubusercontent.com/85972685/128936411-ef3bd07f-a7ef-43a7-9aa5-1d28f7f91280.jpg)
+
 
 ## Technologies used on this project:
 - [HTML](https://html.com)
 - [JAVASCRIPT](https://www.javascript.com)
 - [GOOGLE CLOUD PLATFORM](https://cloud.google.com)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
 ### Author
 ---
