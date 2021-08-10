@@ -22,7 +22,7 @@ You are welcome to test it on this link: https://calculadora.kevinpiovezan.com.b
 Hosted on Google Cloud Platform.
 <br>
 Here's a little preview: <br>
-![calc](https://user-images.githubusercontent.com/85972685/128936388-c1e037ba-98aa-407b-951a-a4b8052c1e62.jpg)
+![calc](https://user-images.githubusercontent.com/85972685/128936388-c1e037ba-98aa-407b-951a-a4b8052c1e62.jpg) <br>
 ![conv](https://user-images.githubusercontent.com/85972685/128936411-ef3bd07f-a7ef-43a7-9aa5-1d28f7f91280.jpg)
 
 
