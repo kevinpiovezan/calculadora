@@ -1,6 +1,6 @@
 # Calculator
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-## Hi! On this project I've made a useful contact book with database storage, using your e-mail to create an account and login.
+## Hi! On this project I've made a useful calculator with a measure conversor for volume metrics.
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -8,7 +8,7 @@
 
 <h4 align="center"> 
 	
- 🏁 Contact Book 🚀 done 🏁
+ 🏁  Calculator 🚀 done 🏁
 
 </h4>
 
